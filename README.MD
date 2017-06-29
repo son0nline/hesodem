@@ -1,2 +1,2 @@
-chương trình chuyển đổi hệ số từ numberic sang alphabet
-demo chuyển được sử dụng để lấy evidence của 10Fastfingers
+chương trình chuyển đổi hệ số từ numberic sang alphabet và ngược lại.
+Demo chuyển được sử dụng để lấy evidence của 10Fastfingers
